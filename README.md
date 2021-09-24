@@ -2,21 +2,21 @@
 
 # This app is made up of the following services.
 
-# 1. User manager service - this service has APIs for managing users (basic CRUD)
+1. User manager service - this service has APIs for managing users (basic CRUD)
 
-# 2. Config server service - this service contains the microservices' configuration server. All other services rely on this service to access configuration files.
+2. Config server service - this service contains the microservices' configuration server. All other services rely on this service to access configuration files.
 
-# 3. Discovery server service - this is a service for the Eureka server that allows for service discovery.
+3. Discovery server service - this is a service for the Eureka server that allows for service discovery.
  
-# 4. Api gateway service - this is a Zuul gateway service.
+4. Api gateway service - this is a Zuul gateway service.
 
 # Pre-requisites
 
-# - Copy the absolute path for the config file folder within the project and replace it in the application.yml file for the inside config server service.
+- Copy the absolute path for the config file folder within the project and replace it in the application.yml file for the inside config server service.
 
-# - Change the database credentials in the user-manager-service-test.yml configuration file to correspond to your local database credentials.
+- Change the database credentials in the user-manager-service-test.yml configuration file to correspond to your local database credentials.
 
-# - Install java 11 and maven 
+- Install java 11 and maven 
 
 # Using the command line to run the system
 
