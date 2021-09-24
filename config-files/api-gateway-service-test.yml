@@ -5,7 +5,7 @@ spring:
 server:
   port: 8302
 zuul:
-  prefix: /api/v1
+  prefix: /api
   routes:
     user-manager-service: /user-manager/**
 
