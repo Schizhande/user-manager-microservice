@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodingAssessment.iml" filepath="$PROJECT_DIR$/.idea/CodingAssessment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-gateway-service/api-gateway-service.iml" filepath="$PROJECT_DIR$/api-gateway-service/api-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-service/config-server-service.iml" filepath="$PROJECT_DIR$/config-server-service/config-server-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-server-service/discovery-server-service.iml" filepath="$PROJECT_DIR$/discovery-server-service/discovery-server-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-manager-service/user-manager-service.iml" filepath="$PROJECT_DIR$/user-manager-service/user-manager-service.iml" />
+    </modules>
+  </component>
+</project>
